@@ -50,8 +50,8 @@ LexAssist/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/wanees3/LexAssist---Copy.git
-cd LexAssist---Copy
+git clone https://github.com/wanees3/LexAssist.git
+cd LexAssist
 ```
 
 ### 2. Create a virtual environment
@@ -63,13 +63,13 @@ python -m venv .venv
 ### 3. Activate the environment on Windows
 
 ```bash
-.venv\Scripts\activate
+.\.venv\Scripts\Activate.ps1
 ```
 
 ### 4. Install dependencies
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt 
 ```
 
 ### 5. Configure Ollama
