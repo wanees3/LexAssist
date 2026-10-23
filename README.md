@@ -97,7 +97,3 @@ The available evaluation files contain benchmark data, metrics, question audits,
 - The application covers selected legal sources rather than all applicable laws.
 - Some legal sources may require additional verification for current status and applicability.
 - Performance may vary across English, Urdu, and Roman Urdu queries.
-
-## Disclaimer
-
-LexAssist is an educational prototype intended to support access to legal information. It does not provide legal advice and should not replace consultation with a qualified legal professional. Users should verify applicable laws and current legal requirements using authoritative sources.
