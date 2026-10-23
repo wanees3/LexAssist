@@ -61,6 +61,7 @@ python -m venv .venv
 ```
 
 ### 3. Activate the environment on Windows
+For powershell 
 
 ```bash
 .\.venv\Scripts\Activate.ps1
@@ -69,7 +70,7 @@ python -m venv .venv
 ### 4. Install dependencies
 
 ```bash
-pip install -r requirements.txt 
+python -m pip install -r requirements.txt
 ```
 
 ### 5. Configure Ollama
