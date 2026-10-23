@@ -1,0 +1,65 @@
+[
+  {
+    "test": 1,
+    "language": "English",
+    "question": "What must the accused prove?",
+    "answer": "Under **Pakistan Penal Code, Section 105**, if an accused relies on a **general exception** (such as self-defense, necessity, or insanity), the **burden of proof** shifts to the accused. \n\n### **Answer:**\nThe **accused must prove the circumstances** that bring the case within the **general exception** relied upon. \n\nIn other words, the accused has the **burden of proving** that the act in question falls under one of the exceptions provided by law, such as:\n\n- Self-defense\n- Necessity\n- Consent\n- Mistake of fact\n- Insanity\n- And other similar exceptions\n\nThis means the accused must **",
+    "done_reason": "length"
+  },
+  {
+    "test": 2,
+    "language": "English",
+    "question": "Which section is identified in the supplied evidence?",
+    "answer": "The section identified in the supplied evidence is **Section 105** of the **Pakistan Penal Code**.",
+    "done_reason": "stop"
+  },
+  {
+    "test": 3,
+    "language": "English",
+    "question": "What is the limitation period?",
+    "answer": "Based on the evidence provided from the **Pakistan Penal Code, Section 105**, there is **no limitation period** specified for cases where an accused relies on a general exception.\n\n### Summary:\n- **Section 105 of the Pakistan Penal Code** states that when an accused relies on a general exception (such as self-defense, necessity, etc.), the **burden of proof** is on the accused to show that the circumstances fall within that exception.\n- **No limitation period** is mentioned or provided in this section.\n- Therefore, **there is no limitation period** applicable to such cases under this section.\n\n### Answer:\n**There is no limitation period** specified in Section ",
+    "done_reason": "length"
+  },
+  {
+    "test": 4,
+    "language": "Urdu",
+    "question": "ملزم کو کیا ثابت کرنا ہوگا؟",
+    "answer": "ملزم کو **عوامی استثناء (general exception)** کے تحت مقدمہ کی صورت میں **عوامی استثناء کے ضمنی حالات (circumstances)** کو ثابت کرنا ہوگا۔\n\n### توضیح:\n**پاکستان عدالتی کاروائی کوڈ (Pakistan Penal Code)، آرٹیکل 105** کے مطابق، اگر ملزم ایک **عوامی استثناء** (جیسے مثلاً \"غفلت\"",
+    "done_reason": "length"
+  },
+  {
+    "test": 5,
+    "language": "Urdu",
+    "question": "دی گئی معلومات میں کون سی دفعہ ذکر ہے؟",
+    "answer": "دی گئی معلومات میں **پاکستان عدالتی کارروائی کوڈ (Pakistan Penal Code)** کی **دفعة 105** ذکر ہے۔",
+    "done_reason": "stop"
+  },
+  {
+    "test": 6,
+    "language": "Urdu",
+    "question": "اس معلومات میں میاد معاد کیا ہے؟",
+    "answer": "اس معلومات میں **میاد معاد (limitation period)** **نہیں ہے**۔\n\n**Pakistan Penal Code, Section 105** کے مطابق، جب ملزم ایک عام استثناء (general exception) پر گھرے ہوئے ہوتے ہیں، تو **ملزم کی ذمہ داری ہوتی ہے کہ وہ اس استثناء کے تحت کیس کو داخل کرنے والی حالات کی اثبات کرے**۔ اور اس",
+    "done_reason": "length"
+  },
+  {
+    "test": 7,
+    "language": "Roman Urdu",
+    "question": "Mulzim ko kya sabit karna hoga?",
+    "answer": "Mulzim ko **sabit karna hoga** ke wo **safai** (general exception) ke under aaya hai, jo **Pakistan Penal Code, Section 105** ke under fix kiya gaya hai.\n\n### Explanation:\n- **Section 105** ke under, agar ek **accused** (accused person) **general exception** (जैसे: अपराध के अंतर्गत नहीं आए जैसे: आपराधिक कार्य नहीं किया,",
+    "done_reason": "length"
+  },
+  {
+    "test": 8,
+    "language": "Roman Urdu",
+    "question": "Di gayi maloomat mein kaunsi dafa ka zikr hai?",
+    "answer": "Di gayi maloomat mein **\"kaunsi dafa ka zikr\"** (kis dafa ka zikr) ka saamna karte hue, hume yeh samajhne ki kis **dafa** (section) ka zikr kiya gaya hai.\n\n### Evidence mein zikr kiya gaya hai:\n**\"Pakistan Penal Code, Section 105\"**\n\n### Question:\n**\"Di gayi maloomat mein kaunsi dafa ka zikr hai?\"**\n\n### Jawab:\n**Section 105** ka zikr kiya gaya hai.",
+    "done_reason": "stop"
+  },
+  {
+    "test": 9,
+    "language": "Roman Urdu",
+    "question": "Is qanoon mein limitation period kitna hai?",
+    "answer": "In the **Pakistan Penal Code (PPC)**, **Section 105** specifically addresses the burden of proof when an accused relies on a general exception. It states that the **burden of proving the circumstances that bring the case within the exception lies on the accused**, and **no limitation period or other legal rule is supplied**.\n\n### Answer to your question:\n**In the Pakistan Penal Code, there is no limitation period** specified for criminal cases under Section 105. This means that **there is no time limit** within which the accused must prove the exception, and **no other legal rule** (such as a statute of limitations) is provided in this context.\n\n###",
+    "done_reason": "length"
+  }
+]

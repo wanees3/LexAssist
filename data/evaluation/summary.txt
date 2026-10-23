@@ -1,0 +1,21 @@
+﻿LexAssist — Preliminary Retrieval Evaluation
+Date: 2026-10-15
+
+Dataset:
+- Total questions: 13
+- Answerable questions included in retrieval metrics: 11
+- Pending-corpus or out-of-scope questions excluded: 2
+
+Act-aware retrieval metrics:
+- Recall@1: 81.82% (9/11)
+- Recall@5: 100.00% (11/11)
+- Mean Reciprocal Rank (MRR): 0.8939
+
+Matching rule:
+A retrieved section is relevant only when both the Act name and section number match the expected labels.
+
+Limitations:
+- Small evaluation set; results are preliminary.
+- Expected labels require manual legal review.
+- Retrieval success does not establish legal correctness, current validity, or territorial applicability.
+- Abstention behaviour is evaluated separately from retrieval ranking.

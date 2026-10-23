@@ -1,0 +1,19 @@
+{
+  "source_pdf": "punjab_minimum_wages_notification_2025_PROVISIONAL.pdf",
+  "source_sha256": "596df46af5b177c5ad6ca35fe389338e46d549517c19ef50ff1df9e549417b01",
+  "page_count": 1,
+  "ocr_engine": "5.4.0.20240606",
+  "language": "eng",
+  "render_dpi": 300,
+  "tesseract_config": "--oem 3 --psm 3",
+  "combined_text_file": "combined_ocr.txt",
+  "pages": [
+    {
+      "page": 1,
+      "characters": 1879,
+      "non_whitespace_characters": 1554,
+      "review_flag": null
+    }
+  ],
+  "warning": "OCR is unverified. Check names, dates, section numbers, wage amounts, and punctuation against the original PDF."
+}

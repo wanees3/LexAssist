@@ -1,0 +1,6 @@
+﻿system,questions,answerable_questions,unanswerable_questions,recall_at_1,recall_at_5,mrr,note
+LLM-only,150,120,30,,,,No retrieval; metrics not applicable.
+Basic RAG,150,120,30,0.5917,0.85,0.6942,Pilot only; run all 150 questions for final metrics.
+Full LexAssist,150,120,30,0.575,0.875,0.694,Pilot only; run all 150 questions for final metrics.
+No jurisdiction filter,150,120,30,0.575,0.8667,0.6913,Pilot only; run all 150 questions for final metrics.
+No query rewriting,150,120,30,0.5917,0.85,0.6942,Pilot only; run all 150 questions for final metrics.

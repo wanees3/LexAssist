@@ -1,0 +1,46 @@
+LEXASSIST STEP 2 ? FINAL LOCAL CHECK
+============================================
+Master rows: 150 (expected 150)
+Language counts: {'English': 50, 'Urdu': 50, 'Roman Urdu': 50}
+Answerable field counts: {'yes': 120, 'no': 30}
+
+FLAGGED QUESTION ROWS
+EN037 | question_scope_review | expected=4|11 | proposed=4|11
+  Punjab-adapted source identified. Question asks which law, rather than which provision; consider testing expected_act separately or using Section 1 only if a section label is required.
+EN038 | correction_proposed | expected=4 | proposed=3
+  Punjab-adapted official text identifies Section 3 as Inquiry Committee and Section 4 as procedure. Proposed label correction to Section 3.
+EN040 | mapping_supported_candidate_corpus_alignment_needed | expected=1 | proposed=1
+  Section 1 exists in the Act candidate. The currently mapped retrieval file is a 2025 notification, so the evaluation corpus must be aligned with the parent Act before finalizing.
+UR037 | question_scope_review | expected=4|11 | proposed=4|11
+  Punjab-adapted source identified. Question asks which law, rather than which provision; consider testing expected_act separately or using Section 1 only if a section label is required.
+UR038 | correction_proposed | expected=4 | proposed=3
+  Punjab-adapted official text identifies Section 3 as Inquiry Committee and Section 4 as procedure. Proposed label correction to Section 3.
+UR040 | mapping_supported_candidate_corpus_alignment_needed | expected=1 | proposed=1
+  Section 1 exists in the Act candidate. The currently mapped retrieval file is a 2025 notification, so the evaluation corpus must be aligned with the parent Act before finalizing.
+RU037 | question_scope_review | expected=4|11 | proposed=4|11
+  Punjab-adapted source identified. Question asks which law, rather than which provision; consider testing expected_act separately or using Section 1 only if a section label is required.
+RU038 | correction_proposed | expected=4 | proposed=3
+  Punjab-adapted official text identifies Section 3 as Inquiry Committee and Section 4 as procedure. Proposed label correction to Section 3.
+RU040 | mapping_supported_candidate_corpus_alignment_needed | expected=1 | proposed=1
+  Section 1 exists in the Act candidate. The currently mapped retrieval file is a 2025 notification, so the evaluation corpus must be aligned with the parent Act before finalizing.
+
+PROCESSED JSON FILES
+all_laws.index_metadata.json (146 bytes)
+competition_act_2010_sections.json (103,517 bytes)
+punjab_consumer_protection_act_2005_sections.json (53,841 bytes)
+punjab_consumer_protection_act_2005_sections_before_format_fix.json (62,171 bytes)
+punjab_consumer_protection_act_2005_sections_repaired.json (54,533 bytes)
+punjab_minimum_wages_notification_2025_sections.json (1,854 bytes)
+punjab_rented_premises_act_2009_sections.json (48,420 bytes)
+transfer_of_property_act_1882_sections.json (229,050 bytes)
+
+CORPUS AUDIT CANDIDATES
+batch_extraction_report.json (2,246 bytes)
+protection_against_harassment_act_2010_candidate.json (33,628 bytes)
+punjab_domestic_workers_act_2019_candidate.json (43,560 bytes)
+punjab_minimum_wages_act_2019_candidate.json (49,137 bytes)
+punjab_shops_establishments_ordinance_1969_candidate.json (73,516 bytes)
+
+SAFETY NOTE
+No source files, master dataset, or production corpus were changed.
+Do not claim current-law verification where official consolidated text remains uncertain.

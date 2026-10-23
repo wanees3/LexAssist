@@ -1,0 +1,31 @@
+﻿group,metric,n,value,note
+Full benchmark (all 150),Recall@1,120,0.5917,Proxy metric; not a legal-correctness measure.
+Full benchmark (all 150),Recall@5,120,0.85,Proxy metric; not a legal-correctness measure.
+Full benchmark (all 150),MRR,120,0.6942,Proxy metric; not a legal-correctness measure.
+Full benchmark (all 150),Abstention proxy rate,0,,Proxy metric; not a legal-correctness measure.
+Full benchmark (all 150),Unanswerable false-accept proxy rate,0,,Proxy metric; not a legal-correctness measure.
+Answerable questions,Recall@1,120,0.5917,Proxy metric; not a legal-correctness measure.
+Answerable questions,Recall@5,120,0.85,Proxy metric; not a legal-correctness measure.
+Answerable questions,MRR,120,0.6942,Proxy metric; not a legal-correctness measure.
+Answerable questions,Abstention proxy rate,0,,Proxy metric; not a legal-correctness measure.
+Answerable questions,Unanswerable false-accept proxy rate,0,,Proxy metric; not a legal-correctness measure.
+Unanswerable questions,Recall@1,0,,Proxy metric; not a legal-correctness measure.
+Unanswerable questions,Recall@5,0,,Proxy metric; not a legal-correctness measure.
+Unanswerable questions,MRR,0,,Proxy metric; not a legal-correctness measure.
+Unanswerable questions,Abstention proxy rate,0,,Proxy metric; not a legal-correctness measure.
+Unanswerable questions,Unanswerable false-accept proxy rate,0,,Proxy metric; not a legal-correctness measure.
+Answerable excluding Harassment source-mismatch questions,Recall@1,111,0.6126,Proxy metric; not a legal-correctness measure.
+Answerable excluding Harassment source-mismatch questions,Recall@5,111,0.8378,Proxy metric; not a legal-correctness measure.
+Answerable excluding Harassment source-mismatch questions,MRR,111,0.6979,Proxy metric; not a legal-correctness measure.
+Answerable excluding Harassment source-mismatch questions,Abstention proxy rate,0,,Proxy metric; not a legal-correctness measure.
+Answerable excluding Harassment source-mismatch questions,Unanswerable false-accept proxy rate,0,,Proxy metric; not a legal-correctness measure.
+Primary legal-correctness subset (eligible answerable only),Mean correctness score (0-2),0,,Reviewer score; interpret alongside source-verification limitations.
+Primary legal-correctness subset (eligible answerable only),Mean groundedness score (0-2),0,,Reviewer score; interpret alongside source-verification limitations.
+Primary legal-correctness subset (eligible answerable only),Mean citation accuracy score (0-2),0,,Reviewer score; interpret alongside source-verification limitations.
+Primary legal-correctness subset (eligible answerable only),Mean language quality score (0-2),0,,Reviewer score; interpret alongside source-verification limitations.
+All answerable questions (includes flagged Harassment items),Mean correctness score (0-2),0,,Reviewer score; interpret alongside source-verification limitations.
+All answerable questions (includes flagged Harassment items),Mean groundedness score (0-2),0,,Reviewer score; interpret alongside source-verification limitations.
+All answerable questions (includes flagged Harassment items),Mean citation accuracy score (0-2),0,,Reviewer score; interpret alongside source-verification limitations.
+All answerable questions (includes flagged Harassment items),Mean language quality score (0-2),0,,Reviewer score; interpret alongside source-verification limitations.
+Answerable questions,Reviewer marked abstention appropriate (rate),0,,Only explicit yes/no or true/false labels counted.
+Unanswerable questions,Reviewer marked abstention appropriate (rate),1,0.0,Only explicit yes/no or true/false labels counted.

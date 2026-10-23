@@ -1,0 +1,229 @@
+[
+  {
+    "act_name": "Punjab Labour Code, 2026",
+    "year": 2026,
+    "jurisdiction": "Punjab",
+    "document_type": "act",
+    "official_source_url": "https://punjablaws.punjab.gov.pk/en/show_article/BjZQZFFlUGdROA--",
+    "local_pdf": "data/raw_laws/punjab_labour_code_2026_PROVISIONAL.pdf",
+    "source_status": "official_portal_link_found",
+    "text_verification_status": "pending",
+    "commencement_status": "requires_official_gazette_notification_check",
+    "notes": "Use the official portal as the preferred source. The local PDF is provisional until compared with the official text. Do not assume the Code is in force without checking its commencement notification.\nReview note (2026-10-15): Dunya News reported on 2026-05-29 that the Punjab Labour Code 2026 had been notified/enforced. This is secondary reporting, not the commencement instrument itself. The Code PDF's section 1(3) requires a Government notification in the official Gazette to specify commencement. The actual commencement notification, its number, and its specified date have not been independently verified from the Gazette. Keep commencement status unresolved; do not infer legal commencement solely from the news report. Reference: https://dunyanews.tv/en/Pakistan/954213-punjab-notifies-labour-code-2026-extends-legal-protection-to-all-work"
+  },
+  {
+    "act_name": "Punjab Rented Premises Act, 2009",
+    "year": 2009,
+    "jurisdiction": "Punjab",
+    "document_type": "act",
+    "official_source_url": "https://punjablaws.punjab.gov.pk/en/show_article/AzYHMwo9Ajs-",
+    "reference_url": "https://law.legum.pk/Punjab-Rented-Premises-Act/",
+    "local_pdf": "data/raw_laws/punjab_rented_premises_act_2009_OFFICIAL.pdf",
+    "source_status": "official_portal_pdf_downloaded_identity_confirmed",
+    "text_verification_status": "readable_identity_confirmed_detailed_comparison_pending",
+    "commencement_status": "pending_current_status_and_amendments_review",
+    "notes": "Thirteen-page PDF downloaded from the official Punjab Laws portal. First-page text identifies The Punjab Rented Premises Act 2009 (VII of 2009). Existing provisional reference PDF retained. Compare texts and review applicable amendments.\n\nPDF review note (2026-10-14): the 13-page official-hosted copy is text-readable and reaches the schedule after sections 35 and 36 (repeal, savings, and validation). This structural check does not verify completeness against subsequent amendments or current legal status.\n\nPDF review\nPDF comparison: official and provisional copies both have 13 pages and closely matching extracted legal text. The displayed differences consist of provisional-copy website footer and page-number text; a normalized substantive-text comparison has not yet been completed. Retain both files; use the official-portal copy as primary.",
+    "additional_local_files": [
+      {
+        "path": "data/raw_laws/punjab_rented_premises_act_2009_PROVISIONAL.pdf",
+        "role": "provisional_reference_copy",
+        "status": "retained_for_comparison",
+        "notes": "Older provisional/reference PDF retained for comparison with the official-hosted copy; do not treat as the authoritative text without verification."
+      }
+    ]
+  },
+  {
+    "act_name": "Punjab Shops and Establishments Ordinance, 1969",
+    "year": 1969,
+    "jurisdiction": "Punjab",
+    "document_type": "act",
+    "official_source_url": "https://www.punjablaws.gov.pk/lawspdf/230.pdf",
+    "local_pdf": "data/raw_laws/punjab_shops_establishments_ordinance_1969_OFFICIAL.pdf",
+    "source_status": "official_portal_pdf_downloaded_identity_confirmed",
+    "text_verification_status": "readable_identity_confirmed_detailed_comparison_pending",
+    "commencement_status": "pending_current_status_and_amendments_review",
+    "notes": "Nineteen-page PDF downloaded from the Punjab Laws domain. First-page text identifies the Punjab Shops and Establishments Ordinance, 1969 (W.P. Ord. VIII of 1969). Existing provisional reference PDF retained. Compare principal text with the separate 2023 amending Act and review current status.\n\nPDF review note (2026-10-14): the 19-page official-hosted copy is text-readable. Forms B and C include amendment notes referencing the Punjab Shops and Establishments (Amendment) Act, 2023 (VI of 2023). This is a version clue, not proof that all amendments are incorporated.\n\nPDF review\nPDF comparison: the official copy includes amendment notes attributing changes to the Punjab Shops and Establishments (Amendment) Act 2023 (VI of 2023), including section 24 registration wording and removal of the registration-fee wording. The provisional copy retains the older section 24 fee schedule and must not be used alone to describe current registration requirements. Official copy retained as primary; provisional copy retained for comparison. Full current-status review remains pending. Review on 2026-10-16: compared key provisions with the Punjab Shops and Establishments (Amendment) Act 2023 (VI of 2023). Candidate includes inserted sections 20-A, 20-B, 21-A to 21-D and 28-A. Spot-checks confirm amended wording in Sections 5, 8, 10, 12, 24, 27, 28, 31 and 32; Section 24 no longer contains the former registration-fee schedule. This was a targeted check, not a complete line-by-line verification of every amendment or the Schedule. Current legal status and subsequent amendments remain pending. **Current-status review (2026-10-16):** Publicly indexed Punjab law listings identify the Ordinance as last updated on 13 March 2023. A Punjab regulatory-reform tracker also lists risk-based inspections as an implemented reform, but the material reviewed did not establish whether this resulted in a later statutory amendment or a separate administrative measure. No later amending Act was confirmed in this review. Gazette notifications, subordinate legislation and the legal basis of the inspection reform remain to be checked. Do not treat the Ordinance as fully current-law verified.",
+    "additional_local_files": [
+      {
+
+        "path": "data/raw_laws/punjab_shops_establishments_ordinance_1969_PROVISIONAL.pdf",
+        "role": "provisional_reference_copy",
+        "status": "retained_for_comparison",
+        "notes": "Older provisional/reference PDF retained for comparison with the official-hosted copy; do not treat as the authoritative text without verification."
+      }
+    ]
+  },
+  {
+    "act_name": "Punjab Minimum Wages Act, 2019",
+    "year": 2019,
+    "jurisdiction": "Punjab",
+    "document_type": "act",
+    "official_source_url": "https://punjablaws.punjab.gov.pk/en/show_article/UWldYwUxBzM-",
+    "local_pdf": "data/raw_laws/punjab_minimum_wages_act_2019_PROVISIONAL.pdf",
+    "source_status": "official_portal_copy_downloaded_identity_confirmed",
+    "text_verification_status": "official_scan_structural_check_passed_full_text_comparison_pending",
+    "commencement_status": "pending_current_status_and_amendments_review",
+    "notes": "The official portal scan has been structurally checked against the readable reference. Section numbering and boundaries were checked, but a complete line-by-line text comparison, subsequent amendments, and current legal status remain pending review.",
+    "additional_local_files": [
+      {
+        "path": "data/raw_laws/punjab_minimum_wages_act_2019_OFFICIAL_PORTAL.pdf",
+        "role": "official_portal_scanned_copy",
+        "source_url": "https://punjablaws.punjab.gov.pk/en/show_article/UWldYwUxBzM-",
+        "status": "ocr_completed_structural_check_passed_full_text_comparison_pending",
+        "notes": "Official portal PDF is image-based. OCR and structural checks are complete. Full transcription accuracy and comparison with the readable reference remain pending. Current amendments and legal status remain unverified.",
+        "ocr": {
+          "status": "completed_unverified",
+          "output_directory": "data/raw_laws/ocr_output/punjab_minimum_wages_act_2019_OFFICIAL_PORTAL",
+          "combined_text": "data/raw_laws/ocr_output/punjab_minimum_wages_act_2019_OFFICIAL_PORTAL/combined_ocr.txt",
+          "manifest": "data/raw_laws/ocr_output/punjab_minimum_wages_act_2019_OFFICIAL_PORTAL/ocr_manifest.json",
+          "source_sha256": "517cca083347fe5dabee15806012fc45d6413a12607cac1bfed1285d6623d0c7",
+          "page_count": 8,
+          "engine": "5.4.0.20240606",
+          "language": "eng",
+          "render_dpi": 300,
+          "config": "--oem 3 --psm 3",
+          "text_review": "structural_check_passed_full_text_review_pending",
+          "comparison_with_readable_reference": "structural_check_passed_line_by_line_comparison_pending"
+        }
+      }
+    ],
+    "ocr": {
+      "status": "completed_unverified",
+      "output_directory": "data/raw_laws/ocr_output/punjab_minimum_wages_act_2019_OFFICIAL_PORTAL",
+      "combined_text": "data/raw_laws/ocr_output/punjab_minimum_wages_act_2019_OFFICIAL_PORTAL/combined_ocr.txt",
+      "manifest": "data/raw_laws/ocr_output/punjab_minimum_wages_act_2019_OFFICIAL_PORTAL/ocr_manifest.json",
+      "source_sha256": "517cca083347fe5dabee15806012fc45d6413a12607cac1bfed1285d6623d0c7",
+      "page_count": 8,
+      "engine": "5.4.0.20240606",
+      "language": "eng",
+      "render_dpi": 300,
+      "config": "--oem 3 --psm 3",
+      "text_review": "structural_check_passed_full_text_review_pending",
+      "comparison_with_readable_reference": "structural_check_passed_line_by_line_comparison_pending"
+    }
+  },
+  {
+    "act_name": "Punjab Minimum Wages Notification, 2025",
+    "year": 2025,
+    "jurisdiction": "Punjab",
+    "document_type": "notification",
+    "official_source_url": "",
+    "reference_url": "https://clr.org.pk/Labour-Laws/Minimum%20Wage%20Notification/Punjab.%20Minimum%20Wages%20Notification.%202025.pdf",
+    "local_pdf": "data/raw_laws/punjab_minimum_wages_notification_2025_PROVISIONAL.pdf",
+    "notification_date": "2025-09-08",
+    "gazette_publication_date": "2025-09-09",
+    "effective_date": "2025-07-01",
+    "minimum_wage_monthly_pkr": 40000,
+    "daily_rate_pkr": 1538.46,
+    "hourly_rate_pkr": 192.31,
+    "supersedes": "Notification dated 2024-09-05",
+    "source_status": "reference_copy_retained_direct_official_url_not_recorded",
+    "text_verification_status": "ocr_completed_visual_text_review_pending",
+    "commencement_status": "effective_date_stated_in_copy_current_status_confirmed_by_user",
+    "notes": "The retained reference PDF appears to be the Punjab Gazette notification published on 2025-09-09, dated 2025-09-08, and effective from 2025-07-01. It states a monthly rate of PKR 40,000, a daily rate of PKR 1,538.46, and an hourly rate of PKR 192.31. It states that it supersedes the notification dated 2024-09-05. User confirmation dated 2026-10-16: the user checked and considers this the latest applicable Punjab, Pakistan minimum-wage notification. This records the user's confirmation and does not constitute independent verification of current legal status. The retained PDF is a reference copy; its direct official Gazette URL has not been recorded. OCR visual review remains pending.",
+    "status_reviewed_on": "2026-10-16",
+    "status_review_result": "latest_notification_confirmed_by_user",
+    "status_review_reference_url": "https://pivra.org/policy-tracker?domain=economy",
+    "ocr": {
+      "status": "completed_unverified",
+      "output_directory": "data/raw_laws/ocr_output/punjab_minimum_wages_notification_2025_PROVISIONAL",
+      "combined_text": "data/raw_laws/ocr_output/punjab_minimum_wages_notification_2025_PROVISIONAL/combined_ocr.txt",
+      "manifest": "data/raw_laws/ocr_output/punjab_minimum_wages_notification_2025_PROVISIONAL/ocr_manifest.json",
+      "source_sha256": "596df46af5b177c5ad6ca35fe389338e46d549517c19ef50ff1df9e549417b01",
+      "page_count": 1,
+      "engine": "5.4.0.20240606",
+      "language": "eng",
+      "render_dpi": 300,
+      "config": "--oem 3 --psm 3",
+      "text_review": "pending_visual_check",
+      "official_source_verification": "direct_official_url_not_recorded",
+      "current_status_and_supersession_check": "latest_confirmed_by_user_as_of_2026-10-16"
+    }
+  },
+  {
+    "act_name": "Punjab Labour Code, 2026 commencement notification",
+    "year": 2026,
+    "jurisdiction": "Punjab",
+    "document_type": "notification",
+    "official_source_url": "",
+    "local_pdf": "",
+    "source_status": "not_found_in_official_domain_search_as_of_2026_10_15",
+    "text_verification_status": "not_applicable_no_notification_copy_found",
+    "commencement_status": "not_verified_do_not_assume_in_force",
+    "notes": "Search the official Punjab Gazette and Labour Department.\nReview note (2026-10-14): targeted searches of the official Punjab laws portal, Punjab government domain, and Punjab Labour Department domain did not locate a matching commencement notification. Search results are not proof that no notification exists. Check the official Punjab Gazette and obtain confirmation from the relevant department before treating the Code as in force.\nProject decision (2026-10-15): record the commencement notice as not found in the searches conducted. This is not proof that no notice exists. Do not repeat the same searches without a new lead, and do not claim the Code is in force without supporting official evidence.",
+    "status_reviewed_on": "2026-10-14",
+    "status_review_result": "not_found_in_search; commencement_unverified"
+  },
+  {
+    "act_name": "Transfer of Property Act, 1882",
+    "year": 1882,
+    "jurisdiction": "Punjab",
+    "document_type": "act",
+    "official_source_url": "https://pakistancode.gov.pk/pdffiles/administrator77923ce792b475e339e1f46ba0442da3.pdf",
+    "local_pdf": "data/raw_laws/transfer_of_property_act_1882.pdf",
+    "source_status": "downloaded_current_applicability_review_needed",
+    "text_verification_status": "pending",
+    "commencement_status": "pending_territorial_applicability_review",
+    "notes": "Check amendments, extent, and Punjab-specific applicability.\n\nPDF review note (2026-10-14): the 56-page copy is text-readable and its final pages include amendment notes referencing the Marine Insurance Act, 2018 and a printed date of 2025-01-21. These clues do not establish that all later amendments or Punjab-specific applicability have been verified."
+  },
+  {
+    "act_name": "Punjab Consumer Protection Act, 2005",
+    "year": 2005,
+    "jurisdiction": "Punjab",
+    "document_type": "act",
+    "official_source_url": "https://pccmdpunjab.gov.pk/custom/mateen/pdf/ruleregulation/20-Punjab%20Consumer%20Protection%20Act%202005.pdf",
+    "local_pdf": "data/raw_laws/punjab_consumer_protection_act_2005.pdf",
+    "source_status": "downloaded_current_text_review_needed",
+    "text_verification_status": "pending",
+    "commencement_status": "pending_current_law_review",
+    "notes": "Verify amendments and current official text.\n\nPDF review note (2026-10-14): the 16-page copy is text-readable and reaches section 39. Completeness against later amendments and current legal status remain unverified."
+  },
+  {
+    "act_name": "Punjab Domestic Workers Act, 2019",
+    "year": 2019,
+    "jurisdiction": "Punjab",
+    "document_type": "act",
+    "official_source_url": "https://wdd.punjab.gov.pk/system/files/the-punjab-domestic-workers-act-2018-docx-pdf_2.pdf",
+    "local_pdf": "data/raw_laws/punjab_domestic_workers_act_2019.pdf",
+    "source_status": "downloaded_official_host_current_status_review_needed",
+    "text_verification_status": "pending",
+    "commencement_status": "pending_labour_code_2026_review",
+    "notes": "Verify the current legal status against the Labour Code and Gazette.\n\nPDF review note (2026-10-14): the 11-page copy is text-readable and reaches section 38. Current legal status, including any effect of the Punjab Labour Code, 2026 and related Gazette notifications, remains unverified. **Legal-status review (2026-10-16):** The Punjab Labour Code 2026 (Act IX of 2026), published in the Punjab Gazette on 10 February 2026, expressly lists the Punjab Domestic Workers Act, 2019 for repeal in section 435. Section 1(3) of the Code requires commencement by Government notification in the official Gazette. An official commencement notification has not yet been verified in this review. The operative status of the 2019 Act therefore remains unresolved; retain its corpus records for traceability but do not present them as confirmed current law. Verify the commencement notification and applicable savings/transitional provisions before changing the corpus or index."
+  },
+  {
+    "act_name": "Protection Against Harassment of Women at the Workplace Act, 2010",
+    "year": 2010,
+    "jurisdiction": "Federal",
+    "document_type": "act",
+    "official_source_url": "https://pakistancode.gov.pk/pdffiles/administratorc22e81f4add9ea3dc023086953ca2b4f.pdf",
+    "local_pdf": "data/raw_laws/protection_against_harassment_act_2010_updated_2022.pdf",
+    "source_status": "downloaded_current_text_review_needed",
+    "text_verification_status": "pending",
+    "commencement_status": "pending_territorial_applicability_review",
+    "notes": "Verify amendments and application in Punjab.\n\nPDF review note (2026-10-14): the 12-page copy states it is updated till 2022-08-22 and includes a note referencing the 2022 amendment. Later amendments and current territorial application remain unverified."
+  },
+  {
+    "act_name": "Competition Act, 2010",
+    "year": 2010,
+    "jurisdiction": "Federal",
+    "document_type": "act",
+    "official_source_url": "https://pakistancode.gov.pk/pdffiles/administratore1b5ab79c2c1975670e6aa7fe57e57d6.pdf",
+    "local_pdf": "data/raw_laws/competition_act_2010.pdf",
+    "source_status": "downloaded_current_text_review_needed",
+    "text_verification_status": "pending",
+    "commencement_status": "pending_current_law_review",
+    "notes": "Verify current amendments and territorial application.\n\nPDF review note (2026-10-14): the 28-page copy reaches sections 59?62 and displays 'Last Uploaded on 20.11.2023'. This is an upload-date clue only and does not establish current amendment status."
+  },
+  {
+    "act_name": "Punjab Shops and Establishments (Amendment) Act, 2023",
+    "year": 2023,
+    "jurisdiction": "Punjab",
+    "document_type": "amending_act",
+    "official_source_url": "https://punjablaws.punjab.gov.pk/en/show_article/UmIANwM0ADRXPg--",
+    "local_pdf": "data/raw_laws/punjab_shops_establishments_amendment_act_2023.pdf",
+    "source_status": "official_portal_copy_downloaded_identity_confirmed",
+    "text_verification_status": "readable_identity_confirmed_detailed_review_pending",
+    "commencement_status": "not_assessed",
+    "notes": "Nine-page PDF downloaded from the official Punjab Laws portal. Title and contents confirmed from extractable first-page text. This is an amending Act, not a consolidated version of the principal 1969 Ordinance."
+  }
+]

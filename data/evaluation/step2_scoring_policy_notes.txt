@@ -1,0 +1,21 @@
+LEXASSIST STEP 2 ? TARGETED VERIFICATION AND SCORING POLICY
+
+Benchmark rows: 150
+Answerable: 120
+Unanswerable: 30
+Act-mapped answerable questions: 120
+Excluded from primary legal-correctness scoring pending source alignment: 9
+
+SCORING POLICY
+1. Keep retrieval metrics separate from legal-correctness scoring.
+2. Keep unanswerable questions in abstention/false-acceptance evaluation.
+3. Exclude Harassment Act questions from primary legal-correctness scoring until the Punjab-specific source basis is reconciled with the loaded candidate.
+4. Other Act groups may remain in fixed-corpus benchmark scores only with the explicit source limitations in the question-level CSV.
+5. Report results as performance against the documented corpus snapshot, not certification of current Pakistani law.
+
+HARASSMENT QUESTION IDS EXCLUDED FROM PRIMARY LEGAL-CORRECTNESS SCORING:
+EN037, EN038, EN039, UR037, UR038, UR039, RU037, RU038, RU039
+
+SOURCE VERIFICATION STATUS
+Official sources have been identified and targeted checks recorded. This is not a full legal opinion or certification that all provisions are current.
+Original benchmark and production corpus were not modified by this script.

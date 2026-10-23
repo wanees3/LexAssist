@@ -1,0 +1,65 @@
+[
+  {
+    "test": 1,
+    "language": "English",
+    "question": "What must the accused prove?",
+    "answer": "The accused must prove circumstances that bring the case within the general exception. Pakistan Penal Code, Section 105.",
+    "done_reason": "stop"
+  },
+  {
+    "test": 2,
+    "language": "English",
+    "question": "Which section is identified in the supplied evidence?",
+    "answer": "Pakistan Penal Code, Section 105.",
+    "done_reason": "stop"
+  },
+  {
+    "test": 3,
+    "language": "English",
+    "question": "What is the limitation period?",
+    "answer": "The supplied evidence does not specify this.",
+    "done_reason": "stop"
+  },
+  {
+    "test": 4,
+    "language": "Urdu",
+    "question": "ملزم کو کیا ثابت کرنا ہوگا؟",
+    "answer": "ملزم کو اپنے دفاع کے لیے عام استثناء کے اندر آنے والی حالات کو ثابت کرنا ہوگا۔ پاکستان عدالتی قانون، شمارہ 105.",
+    "done_reason": "stop"
+  },
+  {
+    "test": 5,
+    "language": "Urdu",
+    "question": "دی گئی معلومات میں کون سی دفعہ ذکر ہے؟",
+    "answer": "پاکستان عدالتی قانون، دفعہ 105 ذکر ہے۔",
+    "done_reason": "stop"
+  },
+  {
+    "test": 6,
+    "language": "Urdu",
+    "question": "اس معلومات میں میاد معاد کیا ہے؟",
+    "answer": "فراہم کردہ معلومات میں میاد معاد کی وضاحت نہیں ہے۔",
+    "done_reason": "stop"
+  },
+  {
+    "test": 7,
+    "language": "Roman Urdu",
+    "question": "Mulzim ko kya sabit karna hoga?",
+    "answer": "Mulzim ko اپنی تھیوئر کے تناظر میں صورت حال کو ثابت کرنے کا ذمہ ہوتا ہے جس سے مقدمہ اس عام استثناء کے اندر آجائے۔ Pakistan Penal Code, Section 105.",
+    "done_reason": "stop"
+  },
+  {
+    "test": 8,
+    "language": "Roman Urdu",
+    "question": "Di gayi maloomat mein kaunsi dafa ka zikr hai?",
+    "answer": "Di gayi maloomat mein Pakistan Penal Code, Section 105 ka zikr hai.",
+    "done_reason": "stop"
+  },
+  {
+    "test": 9,
+    "language": "Roman Urdu",
+    "question": "Is qanoon mein limitation period kitna hai?",
+    "answer": "The supplied evidence does not specify this.",
+    "done_reason": "stop"
+  }
+]

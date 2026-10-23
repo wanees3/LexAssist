@@ -1,0 +1,92 @@
+[
+  {
+    "source": "punjab_domestic_workers_act_2019.pdf",
+    "pages": 11,
+    "candidate_sections": 38,
+    "first_numbers": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "last_numbers": [
+      "31",
+      "32",
+      "33",
+      "34",
+      "35",
+      "36",
+      "37",
+      "38"
+    ],
+    "duplicate_numbers": [],
+    "contains_expected_first": true,
+    "contains_expected_last": true,
+    "candidate_file": "data\\processed\\corpus_audit_candidates\\punjab_domestic_workers_act_2019_candidate.json",
+    "warning": "Candidate extraction only; inspect headings, gaps, schedules, amendments and source status before retrieval use."
+  },
+  {
+    "source": "protection_against_harassment_act_2010_updated_2022.pdf",
+    "pages": 12,
+    "candidate_sections": 14,
+    "first_numbers": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "last_numbers": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "SCHEDULE"
+    ],
+    "duplicate_numbers": [],
+    "contains_expected_first": true,
+    "contains_expected_last": true,
+    "candidate_file": "data\\processed\\corpus_audit_candidates\\protection_against_harassment_act_2010_candidate.json",
+    "warning": "Candidate extraction only; inspect headings, gaps, schedules, amendments and source status before retrieval use."
+  },
+  {
+    "source": "punjab_shops_establishments_ordinance_1969_OFFICIAL.pdf",
+    "pages": 19,
+    "candidate_sections": 42,
+    "first_numbers": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "last_numbers": [
+      "28",
+      "28-A",
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34"
+    ],
+    "duplicate_numbers": [],
+    "contains_expected_first": true,
+    "contains_expected_last": true,
+    "candidate_file": "data\\processed\\corpus_audit_candidates\\punjab_shops_establishments_ordinance_1969_candidate.json",
+    "warning": "Candidate extraction only; inspect headings, gaps, schedules, amendments and source status before retrieval use."
+  }
+]

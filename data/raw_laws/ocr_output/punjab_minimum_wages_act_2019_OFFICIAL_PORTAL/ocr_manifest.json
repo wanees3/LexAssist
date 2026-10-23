@@ -1,0 +1,61 @@
+{
+  "source_pdf": "punjab_minimum_wages_act_2019_OFFICIAL_PORTAL.pdf",
+  "source_sha256": "517cca083347fe5dabee15806012fc45d6413a12607cac1bfed1285d6623d0c7",
+  "page_count": 8,
+  "ocr_engine": "5.4.0.20240606",
+  "language": "eng",
+  "render_dpi": 300,
+  "tesseract_config": "--oem 3 --psm 3",
+  "combined_text_file": "combined_ocr.txt",
+  "pages": [
+    {
+      "page": 1,
+      "characters": 2037,
+      "non_whitespace_characters": 1688,
+      "review_flag": null
+    },
+    {
+      "page": 2,
+      "characters": 3789,
+      "non_whitespace_characters": 3179,
+      "review_flag": null
+    },
+    {
+      "page": 3,
+      "characters": 3744,
+      "non_whitespace_characters": 3122,
+      "review_flag": null
+    },
+    {
+      "page": 4,
+      "characters": 3946,
+      "non_whitespace_characters": 3280,
+      "review_flag": null
+    },
+    {
+      "page": 5,
+      "characters": 4143,
+      "non_whitespace_characters": 3427,
+      "review_flag": null
+    },
+    {
+      "page": 6,
+      "characters": 4183,
+      "non_whitespace_characters": 3424,
+      "review_flag": null
+    },
+    {
+      "page": 7,
+      "characters": 3812,
+      "non_whitespace_characters": 3121,
+      "review_flag": null
+    },
+    {
+      "page": 8,
+      "characters": 3502,
+      "non_whitespace_characters": 2906,
+      "review_flag": null
+    }
+  ],
+  "warning": "OCR is unverified. Check names, dates, section numbers, wage amounts, and punctuation against the original PDF."
+}

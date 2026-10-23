@@ -1,0 +1,60 @@
+LEXASSIST ? STEP 2 FINAL EVALUATION REPORT
+============================================
+
+DATASET COUNTS
+Total benchmark questions: 150
+Answerable questions: 120
+Unanswerable questions: 30
+Eligible answerable questions for primary legal-correctness scoring: 111
+Questions excluded from primary legal-correctness scoring: 9
+
+EXCLUDED QUESTION IDS
+EN037, EN038, EN039, UR037, UR038, UR039, RU037, RU038, RU039
+
+METRICS
+- Full benchmark (all 150) | Recall@1: 0.5917 (n=120)
+- Full benchmark (all 150) | Recall@5: 0.85 (n=120)
+- Full benchmark (all 150) | MRR: 0.6942 (n=120)
+- Full benchmark (all 150) | Abstention proxy rate: not available (n=0)
+- Full benchmark (all 150) | Unanswerable false-accept proxy rate: not available (n=0)
+- Answerable questions | Recall@1: 0.5917 (n=120)
+- Answerable questions | Recall@5: 0.85 (n=120)
+- Answerable questions | MRR: 0.6942 (n=120)
+- Answerable questions | Abstention proxy rate: not available (n=0)
+- Answerable questions | Unanswerable false-accept proxy rate: not available (n=0)
+- Unanswerable questions | Recall@1: not available (n=0)
+- Unanswerable questions | Recall@5: not available (n=0)
+- Unanswerable questions | MRR: not available (n=0)
+- Unanswerable questions | Abstention proxy rate: not available (n=0)
+- Unanswerable questions | Unanswerable false-accept proxy rate: not available (n=0)
+- Answerable excluding Harassment source-mismatch questions | Recall@1: 0.6126 (n=111)
+- Answerable excluding Harassment source-mismatch questions | Recall@5: 0.8378 (n=111)
+- Answerable excluding Harassment source-mismatch questions | MRR: 0.6979 (n=111)
+- Answerable excluding Harassment source-mismatch questions | Abstention proxy rate: not available (n=0)
+- Answerable excluding Harassment source-mismatch questions | Unanswerable false-accept proxy rate: not available (n=0)
+- Primary legal-correctness subset (eligible answerable only) | Mean correctness score (0-2): not available (n=0)
+- Primary legal-correctness subset (eligible answerable only) | Mean groundedness score (0-2): not available (n=0)
+- Primary legal-correctness subset (eligible answerable only) | Mean citation accuracy score (0-2): not available (n=0)
+- Primary legal-correctness subset (eligible answerable only) | Mean language quality score (0-2): not available (n=0)
+- All answerable questions (includes flagged Harassment items) | Mean correctness score (0-2): not available (n=0)
+- All answerable questions (includes flagged Harassment items) | Mean groundedness score (0-2): not available (n=0)
+- All answerable questions (includes flagged Harassment items) | Mean citation accuracy score (0-2): not available (n=0)
+- All answerable questions (includes flagged Harassment items) | Mean language quality score (0-2): not available (n=0)
+- Answerable questions | Reviewer marked abstention appropriate (rate): not available (n=0)
+- Unanswerable questions | Reviewer marked abstention appropriate (rate): 0.0 (n=1)
+
+INTERPRETATION AND LIMITATIONS
+1. Retrieval metrics measure retrieval against the benchmark's recorded expected labels.
+2. Reviewer scores measure generated-answer quality; they are not interchangeable with retrieval metrics.
+3. The nine flagged Harassment questions are excluded from the primary legal-correctness subset pending source alignment.
+4. Unanswerable questions remain in abstention and false-acceptance evaluation.
+5. Proxy abstention metrics are threshold-based indicators, not proof of appropriate legal abstention.
+6. Source version, amendment, and territorial-applicability checks remain incomplete for some Acts.
+7. Results describe performance against this documented corpus/benchmark snapshot; they do not certify that all legal content is current.
+
+OUTPUTS
+data\evaluation\step2_final_evaluation_question_audit.csv
+data\evaluation\step2_final_evaluation_metrics.csv
+data\evaluation\step2_final_evaluation_report.txt
+
+No source benchmark, corpus, model, index, or existing evaluation file was modified.
